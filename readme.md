@@ -7,7 +7,7 @@
 
 ## 2.웹 애플리케이션 실행 환경
 
-● Front-end(UI, Client)
+##● Front-end(UI, Client)
 
 ---
 
