@@ -84,3 +84,6 @@ Installer 다운로드 권장 각 다른 버전을 관리할때는 prtable 버�
 cd
 cd.. 뒤로가기
 dir /w 조회
+
+
+#### git clone 주소  클론폴더명
